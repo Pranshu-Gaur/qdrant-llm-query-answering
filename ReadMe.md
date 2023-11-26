@@ -1,4 +1,5 @@
 # qdrant-llm-query-answering
+`Author: Pranshu Gaur`
 
 ## Steps to run the code on Google Colab:
 1. Go to the [link](https://colab.research.google.com/drive/1mb2b15ell6mz2Dgu0qA_2IN0O45vE4uQ?usp=sharing) or run the `main.ipynb` file separately.
