@@ -1,0 +1,14 @@
+1. Query: Which company sells copies or notebooks? 
+Answer: JK Copier[6837], Vijay[8689], Classmate[20548]. 
+
+2. Query: What can I use for curly hair? 
+Answer: Wet Power Gel[26902], v12 fixing agents[12416], High Definition Curl, Curl Defining Leave-In Cream[19010], Taft Looks V12 Power Gel[6842]. 
+
+3. Query: Which company sells the best rated Namkeen? 
+Answer: Jabsons[2143], Delight Foods[1235], Befikar[3221], Phalada Pure & Sure[1482], Sanjay[706]. 
+
+4. Query: I have wet cough, what should I take? 
+Answer: Cough Drops[9918], Pallavi Cough Syrup[1636], Honitus Ginger - Cough Drops[26620], Kasamrit Herbal Cough Syrup[24601], Cof Yogue[16601]. 
+
+5. Query: Which flower smells the best? 
+Answer: Aloe Vera[21381], Marigold[3685], lavender[27077], Orange[25255], reds, oranges, yellows, lavender, pink and white[26976]. 
